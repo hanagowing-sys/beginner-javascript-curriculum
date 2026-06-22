@@ -12,8 +12,8 @@ console.log(num_str2 + 5)
 keep
 Pinned
 
-Max Ch
-5:27 PM
+
+
 console.log(4 + 5);  // Addition: adds two numbers
 console.log(10 - 3);  // Subtraction: subtracts the second number from the first number
 console.log(5 * 7);  // Multiplication: multiplies two numbers
